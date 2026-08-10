@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ CGTWIF — GPU Bitcoin WIF Search 
+# ⚡ CGTWIF — GPU Bitcoin WIF KEY Search 
 
 **cryptographytube** · Author: **Sisujhon**
 
@@ -369,8 +369,8 @@ Console hit example:
 
 ```
   [VALID] KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUiD4boGJim
-    comp   bc1q… 
-    uncomp 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+    comp   18osJvoujsv3FsxVha7yMHvFiDWquFXbSw
+    uncomp 1KDVJ2VBScChGU5yrwc8DPFaMM1GqoVGfx
     hex    0000000000000000000000000000000000000000000000000000000000001000
 ```
 
