@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ CGTWIF — GPU Bitcoin WIF Search Suite
+# ⚡ CGTWIF — GPU Bitcoin WIF Search 
 
 **cryptographytube** · Author: **Sisujhon**
 
